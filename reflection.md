@@ -1,3 +1,2 @@
-Use this file to record your reflection on this assignment. 
 
-What worked, what didn't, what advice would you give someone taking this course in the future?
+Asking for help is critical, especially at the beginning when I’m unfamiliar with everything. I used to get frustrated when I had no idea where to start or didn’t even understand the meaning of the assignment. Starting early is also key. It took me much longer than expected because I wanted to make sure I understood every part of it. Programming isn’t like a math problem with a single, correct answer. The learning process extends beyond just the work I eventually submitted.
